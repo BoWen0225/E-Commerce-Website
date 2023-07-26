@@ -1,5 +1,6 @@
 <div align='center'>
-![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/2ecd4f5c-a45d-4f43-9984-57bdac1bc49b)
+
+![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/0732780b-9f51-47a7-bbcf-da2bfe58145d)
 
 
 </div>
