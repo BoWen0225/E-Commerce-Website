@@ -3,6 +3,7 @@
 
 
 
+
 <img width="300" alt="Logo" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/f2882714-08a0-4fac-8cab-a5f490d0f124">
 
 </div>
@@ -37,6 +38,8 @@
 <div align='center'>
 
 
+
+
 </div>
 
 <br><br>
@@ -45,7 +48,7 @@
 <div align='center'>
 
 
-<img width="725" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/471a6f11-7a8d-4c63-b6b5-4d5ecaf4d5f2">
+<img width="725" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c10ef63b-77a5-43cd-b544-5101b5a4fa46">
 
 
 <br>
@@ -54,14 +57,14 @@
 
 <div align='center'>
 
-<img width="805" alt="WebsiteImage3" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/098f4af6-f8e3-40f2-a678-78db8620887d">
+<img width="805" alt="WebsiteImage3" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/b1cdf6cb-fc6d-4f7e-92a4-874d0cd08f68">
 
 <br>
 <br>
 <h3 align='center'>Order Confirmation Page ✔️</h3>
 
 <div align='center'>
-<img width="306" alt="WebsiteImage4" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c2c6a304-369a-473c-a886-25952ff5d733">
+<img width="306" alt="WebsiteImage4" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/f80bbc72-e87f-44e0-a401-e1b824ef1f5c">
 
 </div>
 
