@@ -1,4 +1,7 @@
-<div align='center'><img src='![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/0f8191f7-ec8f-45a1-89c3-2543e3fa8eb0)
+<div align='center'>
+![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/8e76818c-8cbe-427a-98e0-af20dcc50eec)
+
+  
 '/></div>
 
 <h2>About the project</h2>
