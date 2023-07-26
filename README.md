@@ -38,7 +38,9 @@
 <h3 align='center'>Shopping Cart Sidebar 🛒</h3>
 
 <div align='center'>
-<img width="207" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/619db06a-5db7-44c8-ba43-5c248b11f5e4">
+
+
+<img width="725" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/471a6f11-7a8d-4c63-b6b5-4d5ecaf4d5f2">
 
 
 <br>
