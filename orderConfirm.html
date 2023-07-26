@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Order Confirmation</title>
+    <style>
+        body {
+            font-family: 'Noto-Sans', sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h2 {
+            color: #007bff;
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 150px;
+            margin-top: 30px;
+        }
+
+        p {
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        #date-time {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+
+<body>
+<h2>Order Sent!</h2>
+<img src="images/ConfirmCheckmark.png" alt="Logo">
+<p>We will keep you updated on your package via email.</p>
+<p>Average delivery time: 20 days.</p>
+<p>Your estimated package arrival date is <span id='date-time'></span>.</p>
+
+<script>
+        // Function to add days to the given date
+        function addDays(date, days) {
+            var result = new Date(date);
+            result.setDate(result.getDate() + days);
+            return result;
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            var currentDate = new Date();
+            var estimatedArrivalDate = addDays(currentDate, 20);
+            var formattedDate = estimatedArrivalDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+            document.getElementById('date-time').innerHTML = formattedDate;
+        });
+    </script>
+</body>
+</html>
