@@ -1,7 +1,8 @@
 <div align='center'>
 
 
-![ShoppingCart](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/5175d1e6-0220-4e5c-996b-f0214cdb27ff)
+![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/f2882714-08a0-4fac-8cab-a5f490d0f124)
+
 
 
 </div>
@@ -31,7 +32,8 @@
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
-<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c96f22e0-8f63-4d5f-9115-0b536f5c2699">
+<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/921761c6-5957-4507-8c52-072bbccc089c">
+
 <div align='center'>
 
 <img src='
