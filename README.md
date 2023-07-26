@@ -29,7 +29,8 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='![alt text](https://github.com/[BoWen0225]/[E-Commerce-Website]/images/WebsiteImage1.png?raw=true)
+
+<img src='
 '/>
 </div>
 
@@ -37,8 +38,7 @@
 <h3 align='center'>Shopping Cart Sidebar 🛒</h3>
 
 <div align='center'>
-<img src='<img width="207" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/be7f4b9a-bc9f-4144-ba03-b21b34ec151c">
-'/>
+<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/73ca1491-e293-47df-bfe7-12079a978d7b">
 
 <br>
 <br>
