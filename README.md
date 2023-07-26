@@ -11,7 +11,7 @@
 <h2>About the project</h2>
 <p>Multipage trendy clothing brand e-commerce site built with HTML, CSS, JavaScript, and JQuery. Features fully functional and intuitive designs to enhance customer shopping experience</p>
 
-👉 Live Demo: <a href=''>J-Street Clothing Store Demo</a>
+👉 Live Demo: <a href='https://frabjous-biscochitos-f7a959.netlify.app/'>J-Street Clothing Store Demo</a>
 
 <h3>Built with:</h3>
 
