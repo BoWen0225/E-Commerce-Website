@@ -1,115 +1,115 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="https://fonts.googleapis.com/css?family=Lobster+Two:700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="checkoutStyles.css">
-  <link
-          href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
-          rel="stylesheet"
-  />
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lobster+Two:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="checkoutStyles.css">
+    <link
+            href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+            rel="stylesheet"
+    />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-  <script src="checkoutScript.js"></script>
+    <script src="checkoutScript.js"></script>
 
 </head>
 <body>
 <div id="top">
-  <i class='bx bx-arrow-back'></i>
-  <a class="arrow-link" href="Main.html">Return to Home Page</a>
-<img src="images/logo-no-background.png" id="LogoImage" alt="Logo">
+    <i class='bx bx-arrow-back'></i>
+    <a class="arrow-link" href="index.html">Return to Home Page</a>
+    <img src="images/logo-no-background.png" id="LogoImage" alt="Logo">
 </div>
 <h2>Checkout</h2>
 <form id="checkout-form">
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <div id="error-email" class="error-message"></div>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <div id="error-email" class="error-message"></div>
 
-  <fieldset id="shipping-address">
-    <legend>Shipping Address</legend>
-    <label for="country-region">Country/Region:</label>
-    <input type="text" id="country-region" name="country-region" required>
-    <div id="error-country-region" class="error-message"></div>
+    <fieldset id="shipping-address">
+        <legend>Shipping Address</legend>
+        <label for="country-region">Country/Region:</label>
+        <input type="text" id="country-region" name="country-region" required>
+        <div id="error-country-region" class="error-message"></div>
 
-    <label for="first-name">First Name:</label>
-    <input type="text" id="first-name" name="first-name" required>
-    <div id="error-first-name" class="error-message"></div>
+        <label for="first-name">First Name:</label>
+        <input type="text" id="first-name" name="first-name" required>
+        <div id="error-first-name" class="error-message"></div>
 
-    <label for="last-name">Last Name:</label>
-    <input type="text" id="last-name" name="last-name" required>
-    <div id="error-last-name" class="error-message"></div>
+        <label for="last-name">Last Name:</label>
+        <input type="text" id="last-name" name="last-name" required>
+        <div id="error-last-name" class="error-message"></div>
 
-    <label for="address">Address:</label>
-    <input type="text" id="address" name="address" required>
-    <div id="error-address" class="error-message"></div>
+        <label for="address">Address:</label>
+        <input type="text" id="address" name="address" required>
+        <div id="error-address" class="error-message"></div>
 
-    <label for="city">City:</label>
-    <input type="text" id="city" name="city" required>
-    <div id="error-city" class="error-message"></div>
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" required>
+        <div id="error-city" class="error-message"></div>
 
-    <label for="province">Province:</label>
-    <input type="text" id="province" name="province" required>
-    <div id="error-province" class="error-message"></div>
+        <label for="province">Province:</label>
+        <input type="text" id="province" name="province" required>
+        <div id="error-province" class="error-message"></div>
 
-    <label for="postal-code">Postal Code:</label>
-    <input type="text" id="postal-code" name="postal-code" required>
-    <div id="error-postal-code" class="error-message"></div>
+        <label for="postal-code">Postal Code:</label>
+        <input type="text" id="postal-code" name="postal-code" required>
+        <div id="error-postal-code" class="error-message"></div>
 
-    <label for="phone">Phone:</label>
-    <input type="text" id="phone" name="phone" required>
-    <button id="billing-info-btn">Billing Information</button>
-    <div id="error-phone" class="error-message"></div>
-  </fieldset>
+        <label for="phone">Phone:</label>
+        <input type="text" id="phone" name="phone" required>
+        <button id="billing-info-btn">Billing Information</button>
+        <div id="error-phone" class="error-message"></div>
+    </fieldset>
 
-  <fieldset id="billing-info" class="blurred">
-    <legend>Billing Information</legend>
-    <label for="card-number">Card Number</label>
-    <input type="text" id="card-number" name="card-number" required>
-    <div id="error-card-number" class="error-message"></div>
+    <fieldset id="billing-info" class="blurred">
+        <legend>Billing Information</legend>
+        <label for="card-number">Card Number</label>
+        <input type="text" id="card-number" name="card-number" required>
+        <div id="error-card-number" class="error-message"></div>
 
-    <label for="cardholder-name">Cardholder Name:</label>
-    <input type="text" id="cardholder-name" name="cardholder-name" required>
-    <div id="error-cardholder-name" class="error-message"></div>
+        <label for="cardholder-name">Cardholder Name:</label>
+        <input type="text" id="cardholder-name" name="cardholder-name" required>
+        <div id="error-cardholder-name" class="error-message"></div>
 
-    <label for="expiration-date">Expiration Date(MM/YY)</label>
-    <input type="text" id="expiration-date" name="expiration-date" required>
-    <div id="error-expiration-date" class="error-message"></div>
+        <label for="expiration-date">Expiration Date(MM/YY)</label>
+        <input type="text" id="expiration-date" name="expiration-date" required>
+        <div id="error-expiration-date" class="error-message"></div>
 
-    <label for="security-code">Security Code (3 Digits):</label>
-    <input type="text" id="security-code" name="security-code" required>
-    <div id="error-security-code" class="error-message"></div>
+        <label for="security-code">Security Code (3 Digits):</label>
+        <input type="text" id="security-code" name="security-code" required>
+        <div id="error-security-code" class="error-message"></div>
 
-    <label for="billing-address">Billing Address:</label>
-    <input type="text" id="billing-address" name="billing-address" required>
-    <div id="error-billing-address" class="error-message"></div>
+        <label for="billing-address">Billing Address:</label>
+        <input type="text" id="billing-address" name="billing-address" required>
+        <div id="error-billing-address" class="error-message"></div>
 
-    <a href="orderConfirm.html">Confirm Order</a>
-  </fieldset>
+        <a href="orderConfirm.html">Confirm Order</a>
+    </fieldset>
 
-  <div id="cart-contents">
+    <div id="cart-contents">
 
-    <h3>Cart Contents</h3>
-    <div id="cart-items-checkout">
+        <h3>Cart Contents</h3>
+        <div id="cart-items-checkout">
 
 
+        </div>
+        <div id="cart-pay">
+
+            <label for="coupon-code">Coupon Code:</label>
+            <input type="text" id="coupon-code" name="coupon-code">
+            <button id="apply-coupon-btn">Apply Coupon</button>
+            <div id="coupon-result"></div>
+            <div id="cart-subtotal-checkout">
+                Subtotal: $0.00
+            </div>
+            <div id="cart-hst-checkout">
+                HST: $0.00
+            </div>
+            <div id="cart-total-checkout">
+                Total: $0.00
+            </div>
+        </div>
     </div>
-    <div id="cart-pay">
-
-      <label for="coupon-code">Coupon Code:</label>
-      <input type="text" id="coupon-code" name="coupon-code">
-      <button id="apply-coupon-btn">Apply Coupon</button>
-      <div id="coupon-result"></div>
-      <div id="cart-subtotal-checkout">
-        Subtotal: $0.00
-      </div>
-      <div id="cart-hst-checkout">
-        HST: $0.00
-      </div>
-      <div id="cart-total-checkout">
-        Total: $0.00
-      </div>
-    </div>
-  </div>
 
 
 </form>
