@@ -27,7 +27,7 @@
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
-
+<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c96f22e0-8f63-4d5f-9115-0b536f5c2699">
 <div align='center'>
 
 <img src='
@@ -38,22 +38,23 @@
 <h3 align='center'>Shopping Cart Sidebar 🛒</h3>
 
 <div align='center'>
-<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/73ca1491-e293-47df-bfe7-12079a978d7b">
+<img width="207" alt="WebsiteImage2" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/619db06a-5db7-44c8-ba43-5c248b11f5e4">
+
 
 <br>
 <br>
 <h3 align='center'>Checkout Page 🎁</h3>
 
 <div align='center'>
-<img src='<img width="805" alt="WebsiteImage3" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/59f3b5cc-92bd-4b1c-bebf-3a94f781c6b4">
-'/>
+
+<img width="805" alt="WebsiteImage3" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/098f4af6-f8e3-40f2-a678-78db8620887d">
 
 <br>
 <br>
 <h3 align='center'>Order Confirmation Page ✔️</h3>
 
 <div align='center'>
-<img src='<img width="306" alt="WebsiteImage4" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/44f4f5b4-5b73-4d9f-8813-d6f3aa00ce98">
-'/>
+<img width="306" alt="WebsiteImage4" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c2c6a304-369a-473c-a886-25952ff5d733">
+
 </div>
 
