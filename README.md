@@ -3,7 +3,7 @@
 
 
 
-<img width="949" alt="Logo" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/f2882714-08a0-4fac-8cab-a5f490d0f124">
+<img width="300" alt="Logo" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/f2882714-08a0-4fac-8cab-a5f490d0f124">
 
 </div>
 
