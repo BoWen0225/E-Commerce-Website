@@ -1,8 +1,9 @@
 <div align='center'>
 
 
+![ShoppingCart](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/5175d1e6-0220-4e5c-996b-f0214cdb27ff)
 
-<img width="949" alt="LogoImage" src="[https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c96f22e0-8f63-4d5f-9115-0b536f5c2699]">
+
 </div>
 
 <h2>About the project</h2>
