@@ -29,7 +29,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='<img width="949" alt="WebsiteImage1" src="https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c488854f-b026-4bd9-874b-aa379ec6eaac">
+<img src='![alt text](https://github.com/[BoWen0225]/[E-Commerce-Website]/images/WebsiteImage1.png?raw=true)
 '/>
 </div>
 
