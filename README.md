@@ -1,8 +1,8 @@
 <div align='center'>
-![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/8e76818c-8cbe-427a-98e0-af20dcc50eec)
+![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/2ecd4f5c-a45d-4f43-9984-57bdac1bc49b)
 
-  
-'/></div>
+
+</div>
 
 <h2>About the project</h2>
 <p>Multipage trendy clothing brand e-commerce site built with HTML, CSS, JavaScript, and JQuery. Features fully functional and intuitive designs to enhance customer shopping experience</p>
