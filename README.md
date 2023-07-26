@@ -1,8 +1,8 @@
 <div align='center'>
 
-![logo-no-background](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/0732780b-9f51-47a7-bbcf-da2bfe58145d)
 
 
+<img width="949" alt="LogoImage" src="[https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/c96f22e0-8f63-4d5f-9115-0b536f5c2699](https://github.com/BoWen0225/E-Commerce-Website/assets/115364906/0732780b-9f51-47a7-bbcf-da2bfe58145d)">
 </div>
 
 <h2>About the project</h2>
