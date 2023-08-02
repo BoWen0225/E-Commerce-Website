@@ -92,6 +92,7 @@ text-align: center
 #checkout-form {
 margin-left:40px;
 
+
   margin-top: 50px;
 }
 
@@ -106,6 +107,7 @@ margin-left:40px;
 #checkout-form input[type="text"],
 #checkout-form textarea {
   width: 80%;
+
   padding: 10px;
   font-size: 16px;
   border: 1px solid #ddd;
@@ -269,7 +271,7 @@ margin-left:10px;
   position: sticky;
   bottom: 0;
   width: 300px;
-  background-color: white; /* Set the background color to white */
+  background-color: white;
   padding: 20px;
   box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -294,18 +296,18 @@ margin-bottom:10px;
 
 
 #cart-total-checkout{
-border-top: 1px solid black; /* Add a bottom border to the title */
+border-top: 1px solid black;
 font-weight:bold;
 
 }
 .valid {
-  border: 6px solid green; /* Add a green border to indicate validity */
+  border: 6px solid green;
 
   position: relative;
 }
 
 .valid::after {
-  content: "\2713"; /* Green checkmark character */
+  content: "\2713";
   position: absolute;
   top: 50%;
   right: 8px;
@@ -314,16 +316,16 @@ font-weight:bold;
   color: green;
 }
 
-/* Add styles for the blurred fieldset */
+
 .blurred {
-  filter: blur(4px); /* Add the blur effect */
-  pointer-events: none; /* Prevent interaction with the blurred fieldset */
+  filter: blur(4px);
+  pointer-events: none;
 }
 
 
 .arrow-link {
-  color: black; /* Set the text color */
-  text-decoration: none; /* Remove underline from the link */
+  color: black;
+  text-decoration: none;
 
 }
 
@@ -331,10 +333,156 @@ font-weight:bold;
 .bx.bx-arrow-back {
 margin-top:10px;
 margin-left:30px;
-    /* Replace the URL with the path to the font file if you are using a custom font */
-     /* Use the appropriate font-family */
-    font-size: 24px; /* Adjust the font size as needed */
-    color: #000; /* Adjust the color of the arrow */
-    /* Add any other styles you want to apply to the arrow here */
+
+    font-size: 24px;
+    color: #000;
+
   }
 
+
+@media (max-width: 1000px) {
+    #checkout-form .address-row {
+        width: 90%;
+
+        margin-top: 20px;
+    }
+
+    #checkout-form fieldset {
+    font-size:50px;
+
+        width: 90%;
+    }
+
+    #billing-info-btn {
+        width: 90%;
+        margin-top: 20px;
+         font-size:50px;
+    }
+    #checkout-form label {
+        display: block;
+        margin-top: 10px;
+        font-size: 30px;
+
+    }
+    #checkout-form input[type="email"],
+    #checkout-form input[type="text"],
+    #checkout-form textarea {
+      width: 80%;
+      height:60px;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-top: 5px;
+    }
+    #cart-contents {
+    margin-bottom:100px;
+    margin-left:40px;
+      overflow-y: auto;
+      position: static;
+      margin-top:30px;
+      top: 100px;
+      right: 0;
+      height: 1000px;
+      width: 800px;
+      background-color: #fff;
+      padding: 0px;
+     display: inline-block;
+      vertical-align: top;
+     outline-style:solid;
+     outline-width:2px;
+     font-size:40px;
+    }
+
+    #cart-contents h3 {
+    font-size:50px;
+    margin-left:10px;
+      margin-top: 0;
+      position: sticky;
+      top: 0;
+      background-color: #fff;
+      padding: 15px 0;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .cart-item {
+    margin-left:10px;
+      display: flex;
+      align-items: center;
+
+
+    }
+
+    .cart-item img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      margin-right: 10px;
+    }
+
+    .cart-item span {
+      flex: 1;
+      font-size:30px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+
+    }
+    #cart-pay {
+      position: sticky;
+      bottom: 0;
+      width: 100%;
+      background-color: white;
+      padding: 20px;
+      box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1);
+    }
+#coupon-code{
+width:100px;
+margin-bottom:10px;
+}
+
+#apply-coupon-btn {
+ font-size: 40px;
+   padding: 10px 10px;
+   border: none;
+   outline: none;
+   color: #fff;
+   background-color: #a90505;
+   border-radius: 5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+#LogoImage {
+
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  width: 300px;
+
+
+
+  border: 2px solid #000;
+}
+.bx.bx-arrow-back {
+margin-top:10px;
+margin-left:30px;
+
+    font-size: 90px;
+    color: #000;
+
+  }
+
+  .arrow-link {
+  display:none;
+    color: black;
+    text-decoration: none;
+
+  }
+
+
+
+
+}
