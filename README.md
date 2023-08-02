@@ -29,6 +29,12 @@
 » Checkout form with error handling <br>
 » Order Confirmation with dynamic delivery date calculation
 
+<h3>Compatibility:</h3>
+
+» Desktop <br>
+» Mobile Devices <br>
+
+
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
